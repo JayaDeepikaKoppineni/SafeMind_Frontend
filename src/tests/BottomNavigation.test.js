@@ -16,6 +16,8 @@ describe('Tab.Navigator Component', () => {
     // expect(await findByText('Home')).toBeTruthy();
   });
 
+  
+
   it('renders tabBarIcon with proper focus styles', () => {
     console.log("renders tabBarIcon with proper focus styles")
     // Snapshot testing to confirm focused style

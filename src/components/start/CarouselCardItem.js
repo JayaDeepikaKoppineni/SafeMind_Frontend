@@ -12,6 +12,7 @@ const CarouselCardItem = ({item, index}) => {
   return (
     <View style={styles.container} >
       <Image source={{uri: item.imgUrl}} style={styles.image} />
+      
       <View
         style={{flexDirection: 'column', overflow: 'hidden', marginLeft: 10,width: width * 0.45,}}>
         <Text style={styles.header}>{item.title}</Text>

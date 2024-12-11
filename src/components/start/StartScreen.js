@@ -14,7 +14,6 @@ import {
   TouchableWithoutFeedback,
 } from 'react-native';
 import React, {useEffect, useRef, useState} from 'react';
-
 import {InAppBrowser} from 'react-native-inappbrowser-reborn';
 import MultiAccordion from 'react-native-multi-flow-accordion';
 import Tooltip from 'react-native-walkthrough-tooltip';

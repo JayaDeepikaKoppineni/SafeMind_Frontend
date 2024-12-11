@@ -1,9 +1,9 @@
-// export const BASEURL = 'http://localhost:8000/';
-// export const URL = 'http://localhost:8000';
+export const BASEURL = 'http://localhost:8000/';
+export const URL = 'http://localhost:8000';
 
 
-export const BASEURL = 'https://gymvibe.hemolink.in:8000/';
-export const URL = 'https://gymvibe.hemolink.in:8000';
+// export const BASEURL = 'https://gymvibe.hemolink.in:8000/';
+// export const URL = 'https://gymvibe.hemolink.in:8000';
 
 
 export const safemind_login = BASEURL + 'safemind_login';

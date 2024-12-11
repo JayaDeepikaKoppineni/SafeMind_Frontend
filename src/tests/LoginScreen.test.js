@@ -12,6 +12,9 @@ describe('Signup Component', () => {
   it('renders all input fields and button', () => {
 
     expect(('university-input')).toBeTruthy();
+
+
+    
   });
 
   it('allows user to fill inputs', () => {

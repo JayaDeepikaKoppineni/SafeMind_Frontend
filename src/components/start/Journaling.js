@@ -13,6 +13,8 @@
 //     imgUrl: require('../../assets/images/med1.jpeg'),
 //     id:1
 //   },
+
+
 //   {
 //     title: 'Exploring the Benefits of Meditation for Anxietys',
 //     body: 'We ll explore the evidence that meditation is a great treatment for anxiety and show you how to get started.',

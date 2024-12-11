@@ -13,7 +13,6 @@ import {
 import React from 'react';
 const {width} = Dimensions.get('window');
 const {height} = Dimensions.get('window');
-
 const HowitWorks = ({navigation}) => {
   const {width} = Dimensions.get('window');
   const {height} = Dimensions.get('window');

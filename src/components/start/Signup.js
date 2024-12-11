@@ -15,6 +15,8 @@ const Signup = ({ onSignup }) => {
       personality: selectedPersonality,
     });
 
+    
+
     if (response.success) {
       Alert.alert('Signup successful');
     } else {
